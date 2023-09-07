@@ -9,6 +9,8 @@
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@viktoriyaturkovskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktoriyaturkovskaya/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zajkobel@gmail.com)
 
 ---
+## My CV 📄[Viktoriya Turkouskaya CV](https://drive.google.com/file/d/1w1ux9NatxUwuKZBZ0kuO9N_sFn51Zdvd/view?usp=sharing)
+---
 
 ### 🤝 Социальные сети:
 
